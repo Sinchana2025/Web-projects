@@ -38,5 +38,5 @@ This project involves performing exploratory data analysis (EDA) on a Netflix da
 
 ## 📁 Dataset
 
-The dataset contains metadata for 9,000+ Netflix movies and shows, including:
-- Title, Genre, Director, Cast, Country, Date Added, Release Year, Rating, Popularity Score, Vote Average
+The dataset contains metadata for 9,000+ Netflix movies in https://github.com/Sinchana2025/Web-projects/blob/main/mymoviedb.csv 
+
