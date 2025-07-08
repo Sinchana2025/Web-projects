@@ -43,7 +43,7 @@ This project involves exploratory data analysis (EDA) on an E-commerce dataset t
 
 ## 📁 Dataset
 
-The dataset used in this analysis is available in the [E-commerce](./data/Sample - Superstore.csv) of this repository.
+The dataset used in this analysis is available in the (https://github.com/Sinchana2025/Web-projects/blob/main/mymoviedb.csv).
 
 
 
