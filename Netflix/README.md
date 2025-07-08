@@ -38,5 +38,4 @@ This project involves performing exploratory data analysis (EDA) on a Netflix da
 
 ## 📁 Dataset
 
-The dataset contains metadata for 9,000+ Netflix movies in https://github.com/Sinchana2025/Web-projects/blob/main/mymoviedb.csv 
-
+The dataset contains metadata for 9,000+ Netflix movies in Netflix/mymoviedb.csv
